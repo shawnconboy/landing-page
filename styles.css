@@ -92,3 +92,11 @@ img {
     padding: 0px 20px;
     text-transform: capitalize;
 }
+
+.infoQuote {
+    padding: 20px 50px;
+    background-color: #e5e7eb;
+    font-size: 36px;
+    font-weight: 300;
+    color: #1f2937;
+}

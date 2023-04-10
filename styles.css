@@ -75,3 +75,20 @@ img {
     height: 300px;
     padding-top: 20px;
 }
+
+.information {}
+
+.informationHeader {
+    font-size: 36px;
+    font-weight: 700;
+    color: #1f2937;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.informationSub {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 0px 20px;
+    text-transform: capitalize;
+}

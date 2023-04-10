@@ -47,3 +47,26 @@ a {
     border: none;
     padding: 2px 25px;
 }
+
+.sectOne {
+    /* border: solid 2px; */
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 40px 0px;
+    margin: 0px 100px;
+}
+
+.sectOneOne {
+    height: 300px;
+}
+
+img {
+    height: 250px;
+    width: auto;
+    border-radius: 20px;
+}
+
+.sectOneTwo {
+    height: 300px;
+}

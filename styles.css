@@ -69,5 +69,9 @@ img {
 }
 
 .sectOneTwo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     height: 300px;
+    padding-top: 20px;
 }

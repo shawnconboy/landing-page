@@ -30,3 +30,12 @@ a {
     color: #e5e7eb;
     font-size: 18px;
 }
+
+.heroButton {
+    color: #e5e7eb;
+    background-color: #3882f6;
+    font-size: 18px;
+    border-radius: 10px;
+    border: none;
+    padding: 2px 25px;
+}

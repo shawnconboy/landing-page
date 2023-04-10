@@ -1,0 +1,28 @@
+body {}
+
+header {
+    background-color: #1f2937;
+    color: #e5e7eb;
+}
+
+.hero {
+    background-color: #1f2937;
+    margin: 0px 25px;
+}
+
+a {
+    color: #e5e7eb;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.heroMain {
+    color: #f9faf8;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.heroSecondary {
+    color: #e5e7eb;
+    font-size: 18px;
+}

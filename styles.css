@@ -66,6 +66,7 @@ img {
     height: 250px;
     width: auto;
     border-radius: 20px;
+    box-shadow: #1f2937 3px 4px 5px;
 }
 
 .sectOneTwo {
@@ -84,6 +85,10 @@ img {
     color: #1f2937;
     text-align: center;
     text-transform: capitalize;
+}
+
+.underImg {
+    text-align: center;
 }
 
 .informationSub {

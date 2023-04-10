@@ -9,11 +9,17 @@ header {
     color: #e5e7eb;
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 
 .hero {
     background-color: #1f2937;
     padding: 0px 25px;
+}
+
+.headerLogo {
+    font-size: 24px;
+    color: #f9faf8;
 }
 
 a {

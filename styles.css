@@ -118,6 +118,19 @@ figcaption {
     text-indent: 170px;
 }
 
+.portfolioLinks {
+    padding: 0% 5%;
+}
+
+.portfolioLinks h2 {
+    color: #1f2937;
+}
+
+.portfolioLinks a {
+    padding: 0% 5%;
+    color: #1f2937;
+}
+
 .action {
     margin: 100px;
     display: flex;

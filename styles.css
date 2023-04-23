@@ -29,6 +29,11 @@ a {
     font-size: 18px;
     text-decoration: none;
     padding: 0px 10px;
+    transition: all ease-in-out .2s;
+}
+
+a:hover {
+    text-shadow: white 0px 0px 10px;
 }
 
 .heroMain {

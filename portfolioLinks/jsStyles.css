@@ -4,10 +4,6 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-.hero {
-    background-color: #1f2937;
-    padding: 0px 25px;
-}
 
 header {
     background-color: #1f2937;
@@ -16,6 +12,11 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 10px 0px;
+}
+
+.hero {
+    background-color: #1f2937;
+    padding: 0px 25px;
 }
 
 .headerLogo {
@@ -35,18 +36,6 @@ a:hover {
     text-shadow: white 0px 0px 10px;
 }
 
-.sectOne {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 0px 0px;
-    margin: 0px 100px;
-}
-
-.sectOneOne {
-    height: 300px;
-}
-
 .heroMain {
     color: #f9faf8;
     font-size: 48px;
@@ -56,5 +45,42 @@ a:hover {
 .heroSecondary {
     color: #e5e7eb;
     font-size: 18px;
-    width: 400px;
+    width: 300px;
+}
+
+.heroButton {
+    color: #e5e7eb;
+    background-color: #3882f6;
+    font-size: 18px;
+    border-radius: 10px;
+    border: none;
+    padding: 2px 25px;
+}
+
+.sectOne {
+    /* border: solid 2px; */
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 40px 0px;
+    margin: 0px 100px;
+}
+
+.sectOneOne {
+    height: 300px;
+}
+
+img {
+    height: 250px;
+    width: auto;
+    border-radius: 20px;
+    box-shadow: #1f2937 3px 4px 5px;
+}
+
+.sectOneTwo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    padding-top: 20px;
 }
